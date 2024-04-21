@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\New folder\\Domashna24.04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{446745D4-0B71-4072-BA8D-9B130B15B701}|Zad 2\\Zad 2.csproj|c:\\users\\admin\\desktop\\new folder\\domashna24.04\\zad 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446745D4-0B71-4072-BA8D-9B130B15B701}|Zad 2\\Zad 2.csproj|solutionrelative:zad 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446745D4-0B71-4072-BA8D-9B130B15B701}|Zad 2\\Zad 2.csproj|c:\\users\\admin\\desktop\\new folder\\domashna24.04\\zad 2\\emplyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446745D4-0B71-4072-BA8D-9B130B15B701}|Zad 2\\Zad 2.csproj|solutionrelative:zad 2\\emplyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48763B1-3857-4738-AFF0-C1DDE6BEAF6A}|Bank\\Bank.csproj|c:\\users\\admin\\desktop\\new folder\\domashna24.04\\bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48763B1-3857-4738-AFF0-C1DDE6BEAF6A}|Bank\\Bank.csproj|solutionrelative:bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48763B1-3857-4738-AFF0-C1DDE6BEAF6A}|Bank\\Bank.csproj|c:\\users\\admin\\desktop\\new folder\\domashna24.04\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48763B1-3857-4738-AFF0-C1DDE6BEAF6A}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emplyee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Domashna24.04\\Zad 2\\Emplyee.cs",
+              "RelativeDocumentMoniker": "Zad 2\\Emplyee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Domashna24.04\\Zad 2\\Emplyee.cs",
+              "RelativeToolTip": "Zad 2\\Emplyee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:54:06.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Domashna24.04\\Zad 2\\Program.cs",
+              "RelativeDocumentMoniker": "Zad 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Domashna24.04\\Zad 2\\Program.cs",
+              "RelativeToolTip": "Zad 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:53:26.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Domashna24.04\\Bank\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Bank\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Domashna24.04\\Bank\\BankAccount.cs",
+              "RelativeToolTip": "Bank\\BankAccount.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:52:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Domashna24.04\\Bank\\Program.cs",
+              "RelativeDocumentMoniker": "Bank\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Domashna24.04\\Bank\\Program.cs",
+              "RelativeToolTip": "Bank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:51:59.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
